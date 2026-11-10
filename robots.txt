@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iknalos.github.io/sitemap.xml
+Sitemap: https://iknalos.github.io/WarpGo/sitemap.xml
